@@ -1,0 +1,28 @@
+.container{
+    height: 95px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 15px;
+    background-image: url("../../image/fundo_destaque.jpg");
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #104E8B;
+}
+h1{
+    font-weight: 300;
+    font-size: 16pt;
+    margin: 0px;
+}
+p{
+    margin: 5px;
+    font-size: 10pt;
+    font-weight: bold;
+}
+img{
+    width: 70px;
+}

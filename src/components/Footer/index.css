@@ -1,0 +1,11 @@
+#foot{
+    margin: 0px;
+    height: 20px;
+}
+#foot img{
+    height: 20px;
+}
+#foot p{
+    font-size: 8px;
+    color: blue;
+}
