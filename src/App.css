@@ -11,13 +11,13 @@ body {
   height: 100vh;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
 }
 section {
   width: 900px;
   display: flex;
   justify-content: space-between;
-  align-items: last baseline;
+  align-items: baseline;
+  margin-bottom: 60vh;
 }
 section .coluna {
   width: 280px;

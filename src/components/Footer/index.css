@@ -1,6 +1,9 @@
 #foot{
     margin: 0px;
     height: 20px;
+    position: absolute; 
+    bottom: 0;
+    width: 870px;
 }
 #foot img{
     height: 20px;
